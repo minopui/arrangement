@@ -1,0 +1,11 @@
+/* styles.css */
+
+body {
+  font-size: 16px;
+}
+
+#inputText, #outputText {
+  width: 100%;
+  max-width: 300px;
+  box-sizing: border-box;
+}
